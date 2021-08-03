@@ -31,6 +31,18 @@ There may be chances of same Youtube Ids got fetched multiple times, so it is im
 Like, dislike, comment, view, and faviourite count was stored in Object datatype so converted these features in Integer datatype so we can do further statistical analysis on these columns.
 ![images](3github.png)
 image Fig: Converting datatype
+2.3 Highest Duration Video
+Top 5 highest duration videos are;
+1.Trailer for "Getting to Know You” 2.The Century of the Self (Full Documentary) 3.The best of youth (trailer) 4.Peter Brook - Mahabharata 1 5.Kevin Smith: Too Fat for 40
+
+2.4 Highest Positive Sentiment Scored Videos
+Top 5 highest duration videos are;
+1.How to Pickup Using the Theory of Relativity! 2.Passengers Trailer 3.Scaramouche (1952) Official Trailer - Stewart Granger, Janet Leigh Swashbuckler Movie HD 4.“NEVER ON SUNDAY" TRAILER 5.Man's favorite sport 6.Wild Child Trailer 7.Revolutionary Road, Leonardo DiCaprio and Kate Winslet together again! 8.Constantine's Sword Trailer 9.WAR OF THE WORLDS 2: THE NEXT WAVE 10.5 Centimeters Per Second Trailer
+
+![images](8github.png)
+image Fig: Top 10 Highest Sentiment Scored Videos
+![images](9github.png)
+
 
 3.0 Visualization
 3.1 Top & Bottom Viewed Videos
@@ -48,7 +60,7 @@ image Fig: Converting datatype
 ![images](4github.png)
 image Fig: Top 10 viewed videos
 
-B)Bottom 10 viewed videos:
+### B)Bottom 10 viewed videos:
 1.Spring Fever 2.Black Fury 3.Okie Noodling 4.Ballad of Cable Hogue - Trailer 5.Who's the Caboose 6.The Ballad Of Nessie 7.Behold A Pale Horse 8.The End Of The Affair (1955) 9.Houseguest 10.Born Reckless
 ![images](5github.png)
 image Fig: Bottom 10 Viewed Videos
@@ -60,17 +72,8 @@ A)Top 10 liked videos
 image Fig: Top 10 liked videos
 
 B)Bottom 5 liked videos
-1.48 Hrs. - Trailer 2.Happiness - Trailer 3.Virginia City - Trailer 4.A Piece of the Action - Trailer 5.Unhook the Stars - Trailer image Fig: Bottom 5 liked videos
-
-2.3 Highest Duration Video
-Top 5 highest duration videos are;
-1.Trailer for "Getting to Know You” 2.The Century of the Self (Full Documentary) 3.The best of youth (trailer) 4.Peter Brook - Mahabharata 1 5.Kevin Smith: Too Fat for 40
-
-2.4 Highest Positive Sentiment Scored Videos
-Top 5 highest duration videos are;
-1.How to Pickup Using the Theory of Relativity! 2.Passengers Trailer 3.Scaramouche (1952) Official Trailer - Stewart Granger, Janet Leigh Swashbuckler Movie HD 4.“NEVER ON SUNDAY" TRAILER 5.Man's favorite sport 6.Wild Child Trailer 7.Revolutionary Road, Leonardo DiCaprio and Kate Winslet together again! 8.Constantine's Sword Trailer 9.WAR OF THE WORLDS 2: THE NEXT WAVE 10.5 Centimeters Per Second Trailer
-
-image
-
+1.48 Hrs. - Trailer 2.Happiness - Trailer 3.Virginia City - Trailer 4.A Piece of the Action - Trailer 5.Unhook the Stars - Trailer
 ![images](7github.png)
-image Fig: Top 10 Highest Sentiment Scored Videos
+image Fig: Bottom 5 liked videos
+
+

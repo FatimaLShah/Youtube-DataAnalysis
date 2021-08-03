@@ -17,8 +17,10 @@ This function create small task of 50 batch size as Youtube API only limits 50 I
 3.fetchingData()
 
 This function will take all the 50 batch size task sequentially and parse the required data from the Youtube API response & save it to dataframe.
-image Fig: Extracted Youtube dataset
-![](images/2github.png)
+image. 
+![image](https://user-images.githubusercontent.com/39268487/123518010-ba720980-d6c1-11eb-87fd-219a798b5745.png) 
+Fig: Extracted Youtube dataset
+![images](2github.png)
 
 2.0 Data Cleansing
 - Using pandas “read_csv” method fetched the saved extracted data and did below basic data cleansing steps;
